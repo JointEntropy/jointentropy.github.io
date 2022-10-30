@@ -6,8 +6,6 @@ Hi! My name is Grigorii Ovchinnikov.
 
 I am data scientist and machine learning engineer with more than 4 years of data analysis and machine learning experience. Strong knowledge of classical, advanced ML algorithms and statistics. Proficiency in working with ML frameworks and databases for business problem-solving.
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
 > You can find my CV [here](./another-page.html).
 
 
