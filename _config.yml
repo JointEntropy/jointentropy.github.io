@@ -1,6 +1,6 @@
 title: Ovchinnikov Grigoriy
 logo: /assets/img/profile.png
-description: Ovchinnikov Grigoriy - data Scientist and ML engineer.
-show_downloads: true
+description: Ovchinnikov Grigoriy - data scientist and ML engineer.
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
